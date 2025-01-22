@@ -1,0 +1,9 @@
+[package]
+name = "dbg-ranges"
+version = "0.1.0"
+edition = "2021"
+description = "Helps with debug formatting lists of items that have many sequential items"
+authors = ["Arlie Davis <ardavis@microsoft.com>"]
+license = "MIT OR Apache-2.0"
+
+[dependencies]
